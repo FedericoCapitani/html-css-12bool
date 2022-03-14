@@ -1,0 +1,22 @@
+:root{
+    --blue: #006cfa;
+    --green: #00e265;
+}
+.marginTop{
+    margin-top: 20px;
+}
+.margin_green{
+    margin: 10px;
+}
+.bg_blue{
+    background-color: var(--blue);
+}
+.bg_green{
+    background-color: var(--green);
+}
+.text{
+    height: 50px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
