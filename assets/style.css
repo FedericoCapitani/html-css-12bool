@@ -8,6 +8,9 @@
 .margin_green{
     margin: 10px;
 }
+.height50{
+    height: 50px;
+}
 .bg_blue{
     background-color: var(--blue);
 }
